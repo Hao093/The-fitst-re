@@ -5,7 +5,8 @@ def getadd(c,d):
     return c+d
 
 
-fibonacci(91,91)
+fibonacci(19,19)
+fibonacci(29,239)
 
 e = getadd(10,55)
 print(r"我得到的结果是\n",e)
