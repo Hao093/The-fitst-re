@@ -6,6 +6,7 @@ def getadd(c,d):
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 fibonacci(9,9)
 =======
 fibonacci(1,232)
@@ -13,5 +14,8 @@ fibonacci(1,232)
 =======
 fibonacci(19,29)
 >>>>>>> branch111
+=======
+fibonacci(12,121)
+>>>>>>> branch222
 e = getadd(10,55)
 print(r"我得到的结果是\n",e)
